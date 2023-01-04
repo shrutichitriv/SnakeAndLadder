@@ -6,8 +6,11 @@ namespace SnakeAndLadder_244
     {
         static void Main(string[] args)
         {
-              SL1_SinglePlayer.StartPosition();
-              Console.ReadLine();
+            //SL1_SinglePlayer.StartPosition();
+            //Console.ReadLine();
+
+            SL2_GetNumber.RollDie();
+            Console.ReadLine();
         }
     }
 }
