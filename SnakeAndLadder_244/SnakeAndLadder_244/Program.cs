@@ -12,7 +12,10 @@ namespace SnakeAndLadder_244
             //SL2_GetNumber.RollDie();
             //Console.ReadLine();
 
-            SL3_PlayNoPlay.Check_Play();
+            //SL3_PlayNoPlay.Check_Play();
+            //Console.ReadLine();
+
+            SL4_Repeat.TheWinningPosition();
             Console.ReadLine();
         }
     }
