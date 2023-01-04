@@ -15,7 +15,10 @@ namespace SnakeAndLadder_244
             //SL3_PlayNoPlay.Check_Play();
             //Console.ReadLine();
 
-            SL4_Repeat.TheWinningPosition();
+            //SL4_Repeat.TheWinningPosition();
+            //Console.ReadLine();
+
+            SL5_Exact100.Winning_100();
             Console.ReadLine();
         }
     }
