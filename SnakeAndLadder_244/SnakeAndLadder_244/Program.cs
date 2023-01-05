@@ -18,7 +18,10 @@ namespace SnakeAndLadder_244
             //SL4_Repeat.TheWinningPosition();
             //Console.ReadLine();
 
-            SL5_Exact100.Winning_100();
+            //SL5_Exact100.Winning_100();
+            //Console.ReadLine();
+
+            SL6_Dice_WinGame.Win_TheGame();
             Console.ReadLine();
         }
     }
